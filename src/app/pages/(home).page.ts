@@ -38,7 +38,7 @@ import { toSignal } from "@angular/core/rxjs-interop";
 			<div class="new-info">
 				<p>
 					BuiltWithAnalog was an open-source project started by
-					<a href="https://github.com/monacodelisa" target="_blank"
+					<a href="https://github.com/esthersoftwaredev" target="_blank"
 						>Esther White</a
 					>
 					with the goal of featuring projects built using
